@@ -1,5 +1,8 @@
 # React-Dashboard---Police-Incidents
 This application was created as part of a take home assignment for the Virginia Beach Technology Department.
+
+
+
 Step 1: I chose the data called Police Incident Reports from https://data.virginiabeach.gov/datasets/67bc708103e746f18e216c32ba39febe_0/about.
 
 
