@@ -3,17 +3,22 @@ This application was created as part of a take home assignment for the Virginia 
 
 
 
-Step 1: I chose the data called Police Incident Reports from https://data.virginiabeach.gov/datasets/67bc708103e746f18e216c32ba39febe_0/about.
+Step 1: I chose the dataset called Police Incident Reports from https://data.virginiabeach.gov/datasets/67bc708103e746f18e216c32ba39febe_0/about.
 
 
-Step 2: I was asked to take a subset of data from this collection and create a MVP with one simple feature. So, I chose to create a dashboard that shows statistics, graphs from the records of data. 
+Step 2: I was asked to take a subset of data from this collection and create an MVP with a simple feature. I created a dashboard that shows statistics and graphs from the data records. 
 
 
-Step 3: I chose the Chakra UI design system to accomplish this application suing React. 
+Step 3: I chose the Chakra UI design system to accomplish this application using React JS. 
 
 
-Step 4: So, the MVP has two tabs: (1) Dashboard that visualizes different subsets of the given data
-                                  (2) Data Table that lists the incident report in a table format with pagiantion.
+Step 4: The application has two tabs: 
+
+
+(1) Dashboard that visualizes different subsets of the given data
+
+
+(2) Data Table that lists the incident report in a table format with pagiantion.
                                   
                                   
                                   
