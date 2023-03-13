@@ -28,6 +28,8 @@ Please find screenshots and recording of the app below.
 To run the app, clone the repository and run the following commands: npm install and npm start inside the working directory.
 
 
+Dashboard Screenshots
+
 
   <img width="1440" alt="Screen Shot 2023-03-12 at 11 56 13 PM" src="https://user-images.githubusercontent.com/13002463/224615527-9620ffb5-bd87-4e15-a9d6-58a005018fd4.png">
   
@@ -43,4 +45,20 @@ To run the app, clone the repository and run the following commands: npm install
 
 
 
+
+<img width="1437" alt="Screen Shot 2023-03-13 at 1 38 24 AM" src="https://user-images.githubusercontent.com/13002463/224616931-ab14e5c5-9d27-4f86-a811-ea8da43d7510.png">
+
+
+
+
 <img width="1440" alt="Screen Shot 2023-03-12 at 11 56 42 PM" src="https://user-images.githubusercontent.com/13002463/224615646-87fffdfc-5ac6-46ec-a885-bd6f125fdea0.png">
+
+
+
+
+
+
+
+
+
+
