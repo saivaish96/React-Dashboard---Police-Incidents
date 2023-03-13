@@ -15,7 +15,7 @@
 𝐒𝐭𝐞𝐩 𝟑: I chose the Chakra UI design system to accomplish this application using React JS. 
 
 
-𝐒𝐭𝐞𝐩 𝟒:The application has two tabs: 
+𝐒𝐭𝐞𝐩 𝟒: The application has two tabs: 
 
 
 (1) 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 that visualizes different subsets of the given data
