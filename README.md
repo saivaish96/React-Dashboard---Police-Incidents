@@ -21,7 +21,7 @@
 (1) 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 that visualizes different subsets of the given data
 
 
-(2) 𝐃𝐚𝐭𝐚 𝐓𝐚𝐛𝐥𝐞 that lists the incident report in a table format with pagiantion.
+(2) 𝐃𝐚𝐭𝐚 𝐓𝐚𝐛𝐥𝐞 that lists the incident report in a table format with pagination.
                                   
                                   
                                   
